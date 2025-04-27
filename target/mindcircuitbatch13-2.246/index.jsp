@@ -1,5 +1,5 @@
 <html>
 <body>
-	<h1 style="color: green; font-size: 40px;" align="left">MIND CIRCUIT AWS DEVOPS TRAINING - We don't just train people ;; we COACH, MENTOR, and BUILD PEOPLE !! </h1>
+	<h1 style="color: blue; font-size: 40px;" align="left">Sai Charan - Cloud and DevOps Engineering</h1> <p style="font-size: 20px; color: black;" align="left"> As a passionate and dedicated <strong>Cloud and DevOps Engineer</strong>, I am committed to mastering the most innovative technologies in cloud computing and automation. With expertise in tools like <strong>AWS, Docker, Kubernetes, Terraform, Jenkins, and CI/CD pipelines</strong>, I thrive in creating seamless cloud solutions and automating processes to drive efficiency.<br><br> My journey has been all about <strong>building, automating, and scaling</strong> infrastructure, enabling organizations to achieve faster and more reliable software deployments. From managing AWS resources to designing robust CI/CD pipelines, I focus on hands-on solutions that deliver real-world results. With a goal of continuous learning, I aim to stay ahead in the evolving landscape of DevOps and cloud technology.<br><br> Let's connect and explore how we can create transformative cloud solutions together! </p>
 </body>
 </html>
